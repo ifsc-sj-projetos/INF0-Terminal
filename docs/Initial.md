@@ -25,8 +25,6 @@ mvn compile
 
 ## Como executar o projeto
 
-Se você estiver usando o plugin `exec-maven-plugin`, use o seguinte comando para rodar a aplicação
-
 ```bash
 mvn exec:java
 ```
